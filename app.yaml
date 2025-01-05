@@ -1,0 +1,15 @@
+runtime: python39
+
+handlers:
+  - url: /
+    static_files: book/index.html
+    upload: book/index.html
+
+  - url: /(.+)
+    static_files: book/\1
+    upload: book/.*
+    require_matching_file: true
+
+  - url: .*
+    static_files: book/404.html
+    upload: book/404.html
