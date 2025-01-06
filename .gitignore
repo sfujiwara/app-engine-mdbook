@@ -3,3 +3,6 @@ book
 
 # Makefile
 config.mk
+
+# Node.js
+node_modules

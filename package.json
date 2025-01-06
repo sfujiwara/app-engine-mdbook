@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "textlint-rule-no-dropping-the-ra": "^3.0.0",
+    "textlint-rule-preset-ja-spacing": "^2.4.3"
+  },
+  "devDependencies": {
+    "textlint": "^14.4.2",
+    "textlint-rule-no-todo": "^2.0.1"
+  }
+}

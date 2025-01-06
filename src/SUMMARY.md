@@ -1,4 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
-  - [Chapter 1.1](./chapter_1_1.md)
+- [textlint](chapter1_textlint/README.md)
+  - [ら抜き言葉](chapter1_textlint/section1_ra.md)

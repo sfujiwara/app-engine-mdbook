@@ -3,4 +3,4 @@ authors = ["author"]
 language = "en"
 multilingual = false
 src = "src"
-title = "app-engine-mdbook"
+title = "mdBook on Google App Engine"

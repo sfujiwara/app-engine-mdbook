@@ -14,3 +14,7 @@ iap-enable:
 .PHONY: iap-disable
 iap-disable:
 	gcloud iap web disable --resource-type=app-engine
+
+.PHONY: textlint
+textlint:
+	npx textlint src/**
